@@ -1,1 +1,1 @@
-# MachineLearningNeuralNEtwork
+# MachineLearningNeuralNetwork
